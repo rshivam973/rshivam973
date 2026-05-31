@@ -19,9 +19,16 @@
 - 🧪 I care about correctness — typed contracts, tests, and clear guardrails over clever hacks.
 - 🔭 Currently building autonomous coding agents that go from an issue to a ready-to-review PR.
 - 💬 Ask me about: building LLM agents, RAG, MCP servers, sandboxed code execution, or shipping full-stack TypeScript.
-
-<!-- TODO: tweak role/company/location to taste -->
 - 🌱 Based in India · working with **[ruh.ai](https://ruh.ai)**
+
+---
+
+### 🚀 Projects
+
+- **[pi-coder](https://github.com/rshivam973/pi-coder)** — autonomous, skill-driven coding agent CLI that clones a repo, implements a task with a pluggable LLM, runs tests/lint/typecheck, self-reviews the diff, opens a PR, and stays alive to chat about the changes. *(TypeScript · Bun · Vercel AI SDK)*
+- **[remote-worker](https://github.com/rshivam973/remote-worker)** — Next.js platform that spins up Daytona sandboxes, installs and drives **pi-coder**, and streams live progress to the browser over SSE with chat + sandbox controls; conversations persisted to Supabase.
+- **[openclaw-pr-reviewer](https://github.com/rshivam973/openclaw-pr-reviewer)** ⭐ — automated AI code-review bot that posts inline GitHub PR comments using Claude (Anthropic / OpenRouter), with Slack notifications and an optional OpenClaw agent mode.
+- **[next-portfolio](https://shivam-codes.vercel.app/)** — my portfolio site.
 
 ---
 
@@ -89,7 +96,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rshivam973&hide_border=true&theme=tokyonight" alt="streak"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rshivam973&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rshivam973&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rshivam973&hide_border=true&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
@@ -98,7 +110,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shivam--codes-f5a524?style=flat&logo=vercel&logoColor=white)](https://shivam-codes.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rshivam973@gmail.com)
-<!-- TODO: fill in / remove as you like -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamrajput3339)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/rshivam973)
 
