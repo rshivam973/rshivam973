@@ -13,11 +13,12 @@
 
 ### 🧠 About me
 
-- 🤖 I work on **agentic AI** — LLM tool-calling loops, multi-step coding agents, and the orchestration around them.
+- 🤖 I work on **agentic AI** — LLM tool-calling loops, multi-step coding agents, RAG pipelines, and **MCP**-based tooling.
 - 🏗️ Full-stack by trade: I take ideas from **PRD → architecture → shipped product**.
+- 🔌 I build **agentic workflows** and automation that wire LLMs into real systems and tools.
 - 🧪 I care about correctness — typed contracts, tests, and clear guardrails over clever hacks.
 - 🔭 Currently building autonomous coding agents that go from an issue to a ready-to-review PR.
-- 💬 Ask me about: building LLM agents, sandboxed code execution, or shipping full-stack TypeScript.
+- 💬 Ask me about: building LLM agents, RAG, MCP servers, sandboxed code execution, or shipping full-stack TypeScript.
 
 <!-- TODO: tweak role/company/location to taste -->
 - 🌱 Based in India · working with **[ruh.ai](https://ruh.ai)**
@@ -48,24 +49,40 @@
 **AI / Agents**
 
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat&logo=vercel&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-1F6FEB?style=flat&logo=anthropic&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF4088?style=flat&logo=pinecone&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E56CF?style=flat)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat&logo=anthropic&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6E56CF?style=flat)
 
-**Data & Infra**
+**Databases**
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Infra & Tooling**
+
 ![Daytona](https://img.shields.io/badge/Daytona_Sandboxes-1E1E1E?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Tooling**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+**AI coding tools**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4A27F?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![opencode](https://img.shields.io/badge/opencode-1A1A1A?style=flat&logo=opencode&logoColor=white)
 
 ---
 
