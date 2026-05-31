@@ -86,16 +86,6 @@
 
 ---
 
-### 🚀 Featured work
-
-**🏭 Agentic PR Factory** — an autonomous issue-to-PR pipeline
-- **`pi-coder`** — an interactive, skill-driven coding agent (TypeScript + Bun, Vercel AI SDK). It clones a repo, implements a task with a pluggable LLM, runs tests/lint/typecheck, self-reviews the diff behind a gate, opens a PR, then stays live to chat about the changes.
-- **Platform** — a Next.js app that spins up isolated **Daytona** sandboxes, installs and drives the agent, and streams its work to the browser over SSE with live chat/control, persisting conversations to **Supabase**.
-
-<!-- TODO: add links / pins to your repos -->
-
----
-
 ### 📊 GitHub stats
 
 <p align="center">
@@ -111,9 +101,10 @@
 
 ### 🤝 Connect
 
-<!-- TODO: fill in / remove as you like -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-shivam--codes-f5a524?style=flat&logo=vercel&logoColor=white)](https://shivam-codes.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rshivam973@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/your-handle)
+<!-- TODO: fill in / remove as you like -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamrajput3339)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/rshivam973)
 
 <p align="center"><i>Turning issues into pull requests — autonomously. 🤖</i></p>
