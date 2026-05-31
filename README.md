@@ -89,11 +89,6 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rshivam973&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshivam973&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rshivam973&hide_border=true&theme=tokyonight" alt="streak"/>
 </p>
 
