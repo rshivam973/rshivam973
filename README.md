@@ -28,7 +28,6 @@
 - **[pi-coder](https://github.com/rshivam973/pi-coder)** — autonomous, skill-driven coding agent CLI that clones a repo, implements a task with a pluggable LLM, runs tests/lint/typecheck, self-reviews the diff, opens a PR, and stays alive to chat about the changes. *(TypeScript · Bun · Vercel AI SDK)*
 - **[remote-worker](https://github.com/rshivam973/remote-worker)** — Next.js platform that spins up Daytona sandboxes, installs and drives **pi-coder**, and streams live progress to the browser over SSE with chat + sandbox controls; conversations persisted to Supabase.
 - **[openclaw-pr-reviewer](https://github.com/rshivam973/openclaw-pr-reviewer)** ⭐ — automated AI code-review bot that posts inline GitHub PR comments using Claude (Anthropic / OpenRouter), with Slack notifications and an optional OpenClaw agent mode.
-- **[next-portfolio](https://shivam-codes.vercel.app/)** — my portfolio site.
 
 ---
 
